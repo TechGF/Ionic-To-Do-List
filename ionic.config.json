@@ -1,0 +1,7 @@
+{
+  "name": "ionic-to-do",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
